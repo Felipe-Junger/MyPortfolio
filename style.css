@@ -39,11 +39,10 @@ body {
     text-decoration: none;
     font-weight: 50;
     margin-left: 35px;
-    transition: .2s;
 }
 
 .navbar a:hover {
-    color: #0ef;
+    color:  #0ef;
 }
 
 .home {
@@ -79,7 +78,7 @@ body {
 .home-img  img{
     max-width: 450px;
     border-radius: 10%;
-    margin-right: -20px;
+    margin: -3px 0;
     opacity: 0;
     animation: zoomIn 1.5s ease forwards;
     animation-delay: .5s;
